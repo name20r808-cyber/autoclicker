@@ -1,0 +1,16 @@
+{
+    "countdown_time": 10,
+    "max_duration": 0,
+    "click_delay_value": 1,
+    "click_delay_unit": "milliseconds",
+    "start_key": "s",
+    "toggle_pause_key": "t",
+    "emergency_key": "p",
+    "global_toggle_key": "g",
+    "global_hotkeys_enabled": true,
+    "front_key": "f",
+    "back_key": "b",
+    "quit_key": "q",
+    "start_paused": true,
+    "always_on_top": true
+}
